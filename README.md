@@ -14,9 +14,9 @@ This repository contains all the information shared during my #100DaysOfHacking 
 
 ## Goals 
 
-# pre week i will solve 1 machine fron hackthebox .
-# Get my first bounty on hackerone.
-# Get Top 10 Rank on my country (Ps)
+**pre week i will solve 1 machine fron hackthebox .**
+**Get my first bounty on hackerone.**
+**Get Top 10 Rank on my country (Ps)**
 
 ## Progress
 
