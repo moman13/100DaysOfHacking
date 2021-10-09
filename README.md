@@ -10,13 +10,13 @@ This repository contains all the information shared during my #100DaysOfHacking 
 
 |  Start Date        | End Date          |
 | -------------------| ------------------|
-| September 23, 2021 | january 3, 2021 |
+| October 10, 2021 | january 30, 2022 |
 
 ## Goals 
 
-### pre week i will solve 1 machine fron hackthebox .
-### Get my first bounty on hackerone.
-### Get Top 10 Rank on my country (Ps).
+**pre week i will solve 1 machine from hackthebox .**
+**Get my first bounty on hackerone.**
+**Get Top 10 Rank on my country (Ps)**
 
 ## Progress
 
